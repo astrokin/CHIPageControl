@@ -1,10 +1,9 @@
 Pod::Spec.new do |s|
   s.name             = 'ASCHIPageControl'
-  s.version          = '0.2.2'
+  s.version          = '0.2.3'
   s.summary          = 'CHIPageControl is a set of cool animated page controls written in Swift to replace boring UIPageControl.'
 
-  s.ios.deployment_target = '8.0'
-  s.tvos.deployment_target = '9.0'
+  s.ios.deployment_target = '13.0'
 
   s.homepage         = 'https://github.com/ChiliLabs/CHIPageControl'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
